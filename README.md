@@ -1,1 +1,5 @@
-This is our project for testing out github 
+This is my play project for testing out github 
+
+== 
+
+Author O Evans 
